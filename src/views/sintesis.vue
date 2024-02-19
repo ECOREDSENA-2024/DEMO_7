@@ -7,7 +7,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="La síntesis representa un diagrama relacionado con el desarrollo de videojuegos. Se destacan elementos clave como los sistemas operativos, que requieren configuración e instalación, y se subdividen en categorías como librerías, API y motores.Los periféricos son componentes importantes a tener en cuenta en el desarrollo. Además, se enfatiza en la generación y administración de versiones de software, donde se utiliza GIT para la gestión. Las operaciones en repositorios son presentadas como una actividad necesaria, vinculada con el proceso de instalación.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

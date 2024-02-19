@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1328" height="693.172" viewBox="0 0 1328 693.172">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_375554" data-name="Rectángulo 375554" width="1328" height="693.172" fill="#ecf6ff"/>
+    </clipPath>
+  </defs>
+  <g id="bg-1" transform="translate(-136 -1038)">
+    <g id="Grupo_1071824" data-name="Grupo 1071824" transform="translate(136 1038)">
+      <path id="Trazado_818041" data-name="Trazado 818041" d="M0,0H1328V689.722H0Z" fill="#dcdefa" opacity="0.458"/>
+      <g id="Enmascarar_grupo_115" data-name="Enmascarar grupo 115" opacity="0.741" clip-path="url(#clip-path)">
+        <g id="Grupo_1071504" data-name="Grupo 1071504" transform="translate(-339.305 -437.483)">
+          <g id="Grupo_1071507" data-name="Grupo 1071507" transform="translate(0 0)">
+            <g id="Grupo_1071502" data-name="Grupo 1071502" transform="translate(470.026 1340.646) rotate(-150)" opacity="0.358">
+              <path id="Trazado_818038" data-name="Trazado 818038" d="M138.3,285.2c93.453-9.289,176.742-83.883,186.031-166.609S265.394-23.666,171.941-14.377-4.8,69.506-14.089,152.232,44.85,294.492,138.3,285.2Z" transform="translate(-21.719 245.006)" fill="#dc40ed" opacity="0.758"/>
+              <path id="Trazado_818039" data-name="Trazado 818039" d="M138.229,285.917c93.453-9.289,176.76-84.043,186.071-166.967S265.4-23.667,171.949-14.378-4.811,69.665-14.122,152.589,44.776,295.206,138.229,285.917Z" transform="translate(151.967 284.303)" fill="#1425dd" opacity="0.466"/>
+              <path id="Trazado_818040" data-name="Trazado 818040" d="M130.523,270.025c88.246-8.772,166.912-79.369,175.705-157.683S250.614-22.348,162.368-13.577-4.543,65.792-13.337,144.107,42.277,278.8,130.523,270.025Z" transform="translate(0 0)" fill="#1425dd" opacity="0.518"/>
+            </g>
+            <g id="Grupo_1071503" data-name="Grupo 1071503" transform="translate(1252.912)" opacity="0.388">
+              <ellipse id="Elipse_9654" data-name="Elipse 9654" cx="366.963" cy="287.297" rx="366.963" ry="287.297" fill="#1425dd" opacity="0.503"/>
+              <ellipse id="Elipse_9655" data-name="Elipse 9655" cx="366.963" cy="287.982" rx="366.963" ry="287.982" transform="translate(329.61 306.909)" fill="#dc40ed" opacity="0.503"/>
+              <ellipse id="Elipse_9656" data-name="Elipse 9656" cx="193.281" cy="151.9" rx="193.281" ry="151.9" transform="translate(112.682 680.719)" fill="#222b89" opacity="0.426"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

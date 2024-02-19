@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1328" height="1276" viewBox="0 0 1328 1276">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_375554" data-name="Rectángulo 375554" width="1328" height="877" fill="#ecf6ff"/>
+    </clipPath>
+    <clipPath id="clip-Mesa_de_trabajo_1">
+      <rect width="1328" height="1276"/>
+    </clipPath>
+  </defs>
+  <g id="Mesa_de_trabajo_1" data-name="Mesa de trabajo – 1" clip-path="url(#clip-Mesa_de_trabajo_1)">
+    <g id="Grupo_1072582" data-name="Grupo 1072582" transform="translate(-136 -2145)">
+      <g id="Grupo_1072565" data-name="Grupo 1072565" transform="translate(136 2389)">
+        <path id="Trazado_818041" data-name="Trazado 818041" d="M0,0H1328V876.445H0Z" fill="#dcdefa" opacity="0.458"/>
+        <g id="Enmascarar_grupo_115" data-name="Enmascarar grupo 115" opacity="0.741" clip-path="url(#clip-path)">
+          <g id="Grupo_1071504" data-name="Grupo 1071504" transform="translate(-521.498 -1469.351)">
+            <g id="Grupo_1071507" data-name="Grupo 1071507" transform="translate(0 0)">
+              <g id="Grupo_1071502" data-name="Grupo 1071502" transform="translate(637.785 4404.803) rotate(-150)" opacity="0.358">
+                <path id="Trazado_818038" data-name="Trazado 818038" d="M446.152,848.826c139.071,69.724,195.288-51.759,125.564-271.341S332.73,123.375,193.659,53.651-1.629,105.411,68.095,324.992,307.081,779.1,446.152,848.826Z" transform="translate(219.216 660.771)" fill="#dc40ed" opacity="0.758"/>
+                <path id="Trazado_818039" data-name="Trazado 818039" d="M446.654,850.685C585.725,920.409,641.807,798.5,571.917,578.4S332.629,123.337,193.558,53.613-1.595,105.8,68.3,325.9,307.583,780.961,446.654,850.685Z" transform="translate(535.562 947.014)" fill="#1425dd" opacity="0.466"/>
+                <path id="Trazado_818040" data-name="Trazado 818040" d="M421.795,803.39c131.322,65.839,184.272-49.3,118.266-257.171S314.09,116.463,182.768,50.624-1.5,99.924,64.5,307.795,290.473,737.551,421.795,803.39Z" transform="translate(0 0)" fill="#1425dd" opacity="0.518"/>
+              </g>
+              <g id="Grupo_1071503" data-name="Grupo 1071503" transform="translate(1435.104)" opacity="0.388">
+                <ellipse id="Elipse_9654" data-name="Elipse 9654" cx="366.963" cy="964.929" rx="366.963" ry="964.929" fill="#1425dd" opacity="0.503"/>
+                <ellipse id="Elipse_9655" data-name="Elipse 9655" cx="366.963" cy="967.232" rx="366.963" ry="967.232" transform="translate(329.61 1030.8)" fill="#dc40ed" opacity="0.503"/>
+                <ellipse id="Elipse_9656" data-name="Elipse 9656" cx="193.281" cy="510.179" rx="193.281" ry="510.179" transform="translate(112.682 2286.296)" fill="#222b89" opacity="0.426"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
